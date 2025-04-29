@@ -3,7 +3,7 @@ Inventory and Finance Tracking System
 
 ## 📖 Problem Statement
 Managing inventory and financial transactions is crucial for suppliers, showroom owners, and customers. Traditional systems struggle with inefficiencies in stock tracking, delayed payments, and financial 
-Mis - management. 
+Miss - management. 
 **Inventory and Finance Tracking System** provides a structured, relational database to efficiently manage transactions, ensuring smooth and transparent business operations.
 
 ---
