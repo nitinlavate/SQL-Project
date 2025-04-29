@@ -1,10 +1,10 @@
 # SQL-Project
-Inventory and Finance Tracking System
+Showroom Management System
 
 ## 📖 Problem Statement
 Managing inventory and financial transactions is crucial for suppliers, showroom owners, and customers. Traditional systems struggle with inefficiencies in stock tracking, delayed payments, and financial 
 Miss - management. 
-**Inventory and Finance Tracking System** provides a structured, relational database to efficiently manage transactions, ensuring smooth and transparent business operations.
+**Showroom Management System** provides a structured, relational database to efficiently manage transactions, ensuring smooth and transparent business operations.
 
 ---
 
@@ -231,5 +231,5 @@ SELECT * FROM (
 ---
 
 ## 🚀 **Conclusion**
-The **Inventory and Finance Tracking System** ensures a structured, efficient, and scalable approach to **inventory management and financial tracking**. It provides transparency, accurate record-keeping, and better decision-making for suppliers, showroom owners, and customers. 📊✅
+The **Showroom Management System** ensures a structured, efficient, and scalable approach to **inventory management and financial tracking**. It provides transparency, accurate record-keeping, and better decision-making for suppliers, showroom owners, and customers. 📊✅
 
